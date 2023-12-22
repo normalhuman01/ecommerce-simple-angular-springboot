@@ -30,9 +30,9 @@ E-Commerce application developed for performing Admin and Customer user role ope
 
 #### Application screenshots
 * Login 
-    ![Image of screenshot](https://github.com/normalhuman01/ecommerce-simple-ecommerce-simple-angular-springboot/blob/master/src/assets/Screenshots/LoginScreen.png)
+    ![Image of screenshot](https://github.com/normalhuman01/ecommerce-simple-angular-springboot/blob/master/src/assets/Screenshots/LoginScreen.png)
 * Register 
-    ![Image of screenshot](https://github.com/normalhuman01/ecommerce-simple-ecommerce-simple-angular-springboot/blob/master/src/assets/Screenshots/RegisterScreen.png)
+    ![Image of screenshot](https://github.com/normalhuman01/ecommerce-simple-angular-springboot/blob/master/src/assets/Screenshots/Screenshots/RegisterScreen.png)
 * Customer 
     * Home 
         ![Image of screenshot](https://github.com/normalhuman01/ecommerce-simple-angular-springboot/blob/main/src/assets/Screenshots/CustHome.png)
